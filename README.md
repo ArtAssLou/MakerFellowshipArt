@@ -2,5 +2,5 @@
 
 ## Teste NFT
 
-Inciando projeot NFT.
+Inciando projeot NFT
 
