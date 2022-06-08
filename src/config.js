@@ -1,17 +1,17 @@
 const { MODE } = require("./blendMode.js");
 const description =
   "This is the description of your NFT project, remember to replace this";
-const baseUri = "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53";
+const baseUri = "ipfs://Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 35,
     layersOrder: [
       { name: "Background" },
       { name: "Eyeball" },
       { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
+      //{ name: "Iris" },
+      //{ name: "Shine" },
       { name: "Bottom lid" },
       { name: "Top lid" },
     ],
