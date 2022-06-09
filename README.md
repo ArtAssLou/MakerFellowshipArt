@@ -27,7 +27,7 @@ Step 2: Host the metadata on IPFS
   Step 4: Smart Contracts
   
     4.1 At first, I tried to make the smart contracts using Remix, however it is paid and I could not buy cryptocurrencies to pay the Gas Fee
-    4.2 In any event I created my digital wallet for MetaMask
+    4.2 In any event, I created my digital wallet for MetaMask
   
   Step 5: OpenSea Contract
   
