@@ -2,7 +2,7 @@
 
 ## Teste NFT
 
-Etapa 1: Gerar os NFTs
+Etapa 1: Gerar as NFTs
 
     1.1 Clonei um codigo aberto no GitHub de https://github.com/HashLips.
     1.2 Criei camadas de imagens de PNG usando o Photoshop.
