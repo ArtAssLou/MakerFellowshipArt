@@ -21,7 +21,7 @@ Step 2: Host the metadata on IPFS
   Step 3: List the collection in OpenSea
   
     3.1 I created a collection in OpenSea
-    3.2 Post the NFTs to the collection 
+    3.2 I posted the NFTs in the collection 
     3.3 The NFTs can be accessed through the following link: https://opensea.io/collection/great-animals-in-great-places
     
   Step 4: Smart Contracts
