@@ -37,7 +37,7 @@ Step 2: Host the metadata on IPFS
     
   Conclusion:
     
-     I created a collection of NFTs using an open source code, just making some changes that I wanted, to create my own self-authored collection. To do that, I hosted the metadata on IPFS and listed my collection at OpenSea. It was a very exciting and challenging job to do, I had no experience in the process of creating an NFT and I could noticed that it is more complex and secure job than imagined it would be. 
+     I created a collection of NFTs using an open source code, just making some changes that I wanted, to create my own self-authored collection. To do that, I hosted the metadata on IPFS and listed my collection at OpenSea. It was a very exciting and challenging job to do, I had no experience in the process of creating an NFT and I could noticed that it is more complex and secure job than I imagined it would be. 
 
 
  
