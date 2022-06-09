@@ -1,6 +1,6 @@
 # MakerFellowshipArt
 
-## Teste NFT
+## Project Assignment A
 
 Step 1: Generate the NFTs
 
