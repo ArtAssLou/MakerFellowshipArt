@@ -2,41 +2,43 @@
 
 ## Teste NFT
 
-Etapa 1: Gerar as NFTs
+Step 1: Generate the NFTs
 
-    1.1 Clonei um codigo aberto no GitHub de https://github.com/HashLips.
-    1.2 Criei camadas de imagens de PNG usando o Photoshop.
-    1.3 Editei o codigo e os arquivos, adicionando as minhas camadas, para Gerar minhas proprimas NFTs
-    1.4 Configurei o codigo para que ele gerasse 35 combinações de camadas diferentes onde cada uma gerou uma NFT unica.
-    1.5 Após todas as atualizações, fiz o Commit do codigo e dos arquivos alterados no Git.
+    1.1 I cloned an open source code on GitHub from https://github.com/HashLips.
+    1.2 I created layers of PNG images using Photoshop.
+    1.3 I edited the code and files, adding my layers, to generate my own NFTs
+    1.4 I configured the code so that it generated 35 different combinations of layers where each one generated a unique NFT.
+    1.5 After all the updates, I committed the changed code and files to Git.
   
-Etapa 2: Hospeda os metadados no IPFS
+Step 2: Host the metadata on IPFS
 
-    2.1 Utilizei o Pinata para hospedar os metadados
-    2.2 Pa hospedar os metadados eu precisei upar o arquivo de imagens no Pinata
-    2.3 Após Upar o arquivo, o Pinata gera um token onde eu inseri no codigo dos metadados Json
-    2.4 Após isso os meus metadados foram hospedados no IPFS
-    2.5 Os metadados e as imagens podem ser acessadas no IPFS através dos seguintes links - https://gateway.pinata.cloud/ipfs/Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre/ - https://gateway.pinata.cloud/ipfs/QmcDLsf6cMF8YX1FHN2wNHThXw2Kr4djrAgbkQ3XCrycBd/1.json
+    2.1 I used Pinata to host the metadata
+    2.2 To host the metadata I needed to upload the image file in Pinata
+    2.3 After Uploading the file, Pinata generates a token where I insert in the metadata Json code
+    2.4 After that my metadata was hosted in IPFS
+    2.5 The metadata and images can be accessed in the IPFS through the following links - https://gateway.pinata.cloud/ipfs/Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre/ - https://gateway.pinata.cloud/ipfs/QmcDLsf6cMF8YX1FHN2wNHThXw2Kr4djrAgbkQ3XCrycBd/1.json
   
-  Etapa 3: Lista a coleçao no OpenSea
+  Step 3: List the collection in OpenSea
   
-    3.1 Criar uma coleção no OpenSea
-    3.2 Postar as NFTs na coleção 
-    3.3 As NFTs podem ser acessadas atraves do link: https://opensea.io/collection/great-animals-in-great-places
+    3.1 Creating a collection in OpenSea
+    3.2 Post the NFTs to the collection 
+    3.3 The NFTs can be accessed through the following link: https://opensea.io/collection/great-animals-in-great-places
     
-  Etapa 4: Contratos inteligentes
+  Step 4: Smart Contracts
   
-    4.1 Inicialmente tentei fazer os contrato inteligentes usado o Remix, no entando é pago e não pude efetuar a compra de cryptomoedas para pagar o Gas Fee
-    4.2 Criei a minha carteira digital para de MetaMask
+    4.1 Initially I tried to make the smart contracts using Remix, however it is paid and I could not buy cryptocurrencies to pay the Gas Fee
+    4.2 I created my digital wallet for MetaMask
   
-  Etapa 5: Contrato da OpenSea
+  Step 5: OpenSea Contract
   
-    5.1 Ao acessar a NFT listada na OpenSea, podemos acessar em Details, o contrato.
-    5.2 Ao acessar, pegamos o toke - 0x2953399124f0cbb46d2cbacd8a89cf0599974963
-    5.3 Podemos Verifique os contrato no polygonscan, basta acessar - https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
+    5.1 By accessing the NFT listed in OpenSea, we can access in Details, the contract.
+    5.2 When accessing, we get the toke - 0x2953399124f0cbb46d2cbacd8a89cf0599974963
+    5.3 We can Check the contract in polygonscan, just access - https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
     
-  Conclusão:
+  Conclusion:
     
-     Creiei uma coleção de NFTs usando um codigo aberto, apenas fazendo as alterações que desejei, para criar minha propria coleção de autoria propria,hospedei os metadados na IPFS e listei a minha coleção na OpenSea. Foi um trabalho bem animador e desafiador de se fazer, não tinha experiencia no processo de criação de uma NFT e pude notar que é um trabalho mais complexo e seguro do que eu acreditava que seria. 
+     I created a collection of NFTs using open source, just making the changes I wanted, to create my own self-authored collection,hosted the metadata on IPFS and listed my collection on OpenSea. It was a very exciting and challenging job to do, I had no experience in the process of creating an NFT and I could notice that it is a more complex and secure job than I believed it would be. 
+
+Translated with www.DeepL.com/Translator (free version)
  
 
