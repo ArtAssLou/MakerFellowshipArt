@@ -35,6 +35,19 @@ Step 2: Host the metadata on IPFS
     5.2 When accessing, we get the toke - 0x2953399124f0cbb46d2cbacd8a89cf0599974963
     5.3 We can Check the contract in polygonscan, through the following link - https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
     
+  Contracts: 
+   
+    Rooster Ocean Universe Earth: 0x2953399124f0cbb46d2cbacd8a89cf0599974963
+    Rooster Mars Ocean: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Fox Mars Apocalypse Ocean: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Fox Earth Universe Apocalypse: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Octopus Earth Universe Ocean: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Octopus Earth Apocalypse Ocean: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Hamster Mars Apocalypse: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Hamster Mars Universe: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Whale Earth Apocalypse Ocean: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+    Whale Mars Universe Apocalypse: 0x2953399124F0cBB46d2CbACD8A89cF0599974963
+         
   Conclusion:
     
      I created a collection of NFTs using an open source code, just making some changes that I wanted, to create my own self-authored collection. To do that, I hosted the metadata on IPFS and listed my collection at OpenSea. It was a very exciting and challenging job to do, I had no experience in the process of creating an NFT and I could noticed that it is more complex and secure job than I imagined it would be. 
