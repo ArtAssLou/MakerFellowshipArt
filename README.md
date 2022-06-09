@@ -4,19 +4,19 @@
 
 Etapa 1: Gerar os NFTs
 
-  1.1 Clonei um codigo aberto no GitHub de https://github.com/HashLips.
-  1.2 Criei camadas de imagens de PNG usando o Photoshop.
-  1.3 Editei o codigo e os arquivos, adicionando as minhas camadas, para Gerar minhas proprimas NFTs
-  1.4 Configurei o codigo para que ele gerasse 35 combinações de camadas diferentes onde cada uma gerou uma NFT unica.
-  1.5 Após todas as atualizações, fiz o Commit do codigo e dos arquivos alterados no Git.
+    1.1 Clonei um codigo aberto no GitHub de https://github.com/HashLips.
+    1.2 Criei camadas de imagens de PNG usando o Photoshop.
+    1.3 Editei o codigo e os arquivos, adicionando as minhas camadas, para Gerar minhas proprimas NFTs
+    1.4 Configurei o codigo para que ele gerasse 35 combinações de camadas diferentes onde cada uma gerou uma NFT unica.
+    1.5 Após todas as atualizações, fiz o Commit do codigo e dos arquivos alterados no Git.
   
 Etapa 2: Hospeda os metadados no IPFS
 
-  2.1 Utilizei o Pinata para hospedar os metadados
-  2.2 Pa hospedar os metadados eu precisei upar o arquivo de imagens no Pinata
-  2.3 Após Upar o arquivo, o Pinata gera um token onde eu inseri no codigo dos metadados Json
-  2.4 Após isso os meus metadados foram hospedados no IPFS
-  2.5 Os metadados e as imagens podem ser acessadas no IPFS através dos seguintes links - https://gateway.pinata.cloud/ipfs/Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre/ - https://gateway.pinata.cloud/ipfs/QmcDLsf6cMF8YX1FHN2wNHThXw2Kr4djrAgbkQ3XCrycBd/1.json
+    2.1 Utilizei o Pinata para hospedar os metadados
+    2.2 Pa hospedar os metadados eu precisei upar o arquivo de imagens no Pinata
+    2.3 Após Upar o arquivo, o Pinata gera um token onde eu inseri no codigo dos metadados Json
+    2.4 Após isso os meus metadados foram hospedados no IPFS
+    2.5 Os metadados e as imagens podem ser acessadas no IPFS através dos seguintes links - https://gateway.pinata.cloud/ipfs/Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre/ - https://gateway.pinata.cloud/ipfs/QmcDLsf6cMF8YX1FHN2wNHThXw2Kr4djrAgbkQ3XCrycBd/1.json
   
   Etapa 3: Lista a coleçao no OpenSea
   
