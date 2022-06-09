@@ -33,7 +33,7 @@ Step 2: Host the metadata on IPFS
   
     5.1 By accessing the NFT listed in OpenSea and clicking in "Details", we can access the contract.
     5.2 When accessing, we get the toke - 0x2953399124f0cbb46d2cbacd8a89cf0599974963
-    5.3 We can Check the contract in polygonscan, just access - https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
+    5.3 We can Check the contract in polygonscan, through the following link - https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963
     
   Conclusion:
     
