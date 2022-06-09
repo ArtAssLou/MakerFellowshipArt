@@ -15,7 +15,7 @@ Step 2: Host the metadata on IPFS
     2.1 I used Pinata to host the metadata.
     2.2 To host the metadata I needed to upload the image file in Pinata.
     2.3 After Uploading the file, Pinata generates a token, which I insert in the metadata Json code.
-    2.4 After that my metadata was hosted in IPFS.
+    2.4 After that, my metadata was hosted in IPFS.
     2.5 The metadata and images can be accessed in the IPFS through the following links - https://gateway.pinata.cloud/ipfs/Qmc5gRshgUsD2uUGFhckLCpG5N1nvWMb6vHzFqNzCg7Nre/ - https://gateway.pinata.cloud/ipfs/QmcDLsf6cMF8YX1FHN2wNHThXw2Kr4djrAgbkQ3XCrycBd/1.json
   
   Step 3: List the collection in OpenSea
