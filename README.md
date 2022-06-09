@@ -6,7 +6,7 @@ Step 1: Generate the NFTs
 
     1.1 I cloned an open source code on GitHub from https://github.com/HashLips.
     1.2 I created layers of PNG images using Photoshop.
-    1.3 I edited the code and files, adding my layers, to generate my own NFTs
+    1.3 I edited the code and files, while adding my layers, to generate my own NFTs
     1.4 I configured the code so that it generated 35 different combinations of layers where each one generated a unique NFT.
     1.5 After all the updates, I committed the changed code and files to Git.
   
